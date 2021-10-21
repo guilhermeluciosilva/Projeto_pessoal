@@ -9,5 +9,5 @@ $conn = new PDO("",$dbuser, $pass) or die ("Não foi possivel conectar");
 
 if($conn)
     {
-        //echo 'sucesso ---------';
+        //echo 'sucesso -----------------';
     }
